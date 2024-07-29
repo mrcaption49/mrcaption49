@@ -1,6 +1,9 @@
 
 Pranav Bakare,I am currently working in TCS
 
+<img align="right" alt="coding" width="400" src="https://ik.imagekit.io/dresma/Dresma_Library/manager-openings_NW3bXTTFP.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chinmaysoft&label=Profile%20views&color=0e75b6&style=flat" alt="chinmaysoft" /> </p>
 
 ## Social Media 🌐:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mrcaption49) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pranavbakare/) 
