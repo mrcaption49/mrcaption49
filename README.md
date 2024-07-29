@@ -3,8 +3,6 @@
 
 <img align="right" alt="coding" width="400" src="https://ik.imagekit.io/dresma/Dresma_Library/manager-openings_NW3bXTTFP.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chinmaysoft&label=Profile%20views&color=0e75b6&style=flat" alt="chinmaysoft" /> </p>
-
 - 🌱 I’m currently learning **Docker kubernetes**
 
 - ⚡ Fun fact **Creating projects is what I do.**
