@@ -3,8 +3,6 @@
 
 <img align="right" alt="coding" width="400" src="https://ik.imagekit.io/dresma/Dresma_Library/manager-openings_NW3bXTTFP.gif">
 
-- 🌱 I’m currently learning **Docker kubernetes**
-
 - ⚡ Fun fact **Creating projects is what I do.**
 
 <h3 align="left">Connect with me:</h3>
